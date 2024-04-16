@@ -1,12 +1,11 @@
 {
-  {
     "type": "module",
       "name": "mein-projekt",
         "version": "1.0.0",
-          "main": "index.js",
+          "main": "index.njs",
             "dependencies": {
                 "three": "^0.133.0"
                   }
-                  }
+                  
 
 }
