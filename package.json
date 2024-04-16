@@ -2,7 +2,7 @@
     "type": "module",
       "name": "mein-projekt",
         "version": "1.0.0",
-          "main": "index.njs",
+          "main": "index.mjs",
             "dependencies": {
                 "three": "^0.133.0"
                   }
